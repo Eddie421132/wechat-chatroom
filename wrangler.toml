@@ -1,0 +1,8 @@
+name = "wechat-chatroom-d1"
+compatibility_date = "2023-10-01"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "wechat_chatroom"
+database_id = "your-d1-id"
