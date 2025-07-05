@@ -2,7 +2,10 @@ name = "wechat-chatroom-d1"
 compatibility_date = "2023-10-01"
 pages_build_output_dir = "."
 
+account_id = "a1d90df5df2e06d0ba6243015e00f807"
+workers_dev = true
+
 [[d1_databases]]
 binding = "DB"
 database_name = "wechat_chatroom"
-database_id = "your-d1-id"
+database_id = "7495d0e7-7690-46ad-8059-2049d3b56baf"
